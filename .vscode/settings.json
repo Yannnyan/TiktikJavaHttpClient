@@ -4,6 +4,8 @@
         "c:\\Users\\Yan\\Downloads\\jackson-core-2.2.3.jar",
         "c:\\Users\\Yan\\Downloads\\jackson-databind-2.14.1.jar",
         "c:\\Users\\Yan\\Downloads\\jackson-dataformat-xml-2.1.1.jar",
-        "c:\\Users\\Yan\\Downloads\\gson-2.10.jar"
+        "c:\\Users\\Yan\\Downloads\\gson-2.10.jar",
+        "c:\\Users\\Yan\\Downloads\\android-async-http-1.4.11.jar",
+        "c:\\Users\\Yan\\Downloads\\httpclient-4.4.1.1.jar"
     ]
 }
