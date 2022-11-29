@@ -1,4 +1,4 @@
-package Models;
+package com.example.myapplication.Models;
 
 public class Student {
     public int id;
